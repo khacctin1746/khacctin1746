@@ -5,6 +5,3 @@
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nktins) 
-
-# GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khacctin1746)](https://github.com/anuraghazra/github-readme-stats)
