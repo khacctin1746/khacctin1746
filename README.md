@@ -6,8 +6,6 @@
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nktins) 
 
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=khacctin1746)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=khacctin1746&type=languages)
-![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=khacctin1746&type=contributions)
-![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=khacctin1746&type=top-repos)
+## Stats:
+![khacctin1746's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=khacctin1746&type=contributions&theme=dark)
 
