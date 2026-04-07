@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm khacctin!</h1>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xu69bz5SJ6) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nktins) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@khacctin) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nktins)]
 <br>I enjoy building creative and unique features to bring fresh experiences to players. My main focus is developing custom systems, gameplay mechanics, and plugins for Minecraft servers. I'm also passionate about learning Java backend development and continuously improving my programming skills.
 
